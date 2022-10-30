@@ -5,7 +5,7 @@ body {
 
 .hl {
     border-top: 3px solid black;
-    width: 750px;
+    width: 75vh;
 }
 
 p {
@@ -19,10 +19,13 @@ ul {
 }
 
 .short {
-    width: 500px;
+    width: 50vh;
 }
 
--webkit-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--moz-text-size-adjust: 100%;
-text-size-adjust: 100%;
+.box {
+    height: 100px;
+    width: 1500px;
+    overflow-wrap: break-word;
+    display: block;
+    position: relative;
+}
