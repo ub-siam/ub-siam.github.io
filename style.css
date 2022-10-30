@@ -30,7 +30,7 @@ ul {
 .box {
     height: 100px;
     width: 1500px;
-    margin:0 auto;
+    margin:0px auto;
     overflow-wrap: break-word;
-
+    position: relative;
 }
