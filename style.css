@@ -28,6 +28,7 @@ ul {
 }
 
 .box {
+    display: flex;
     height: 100px;
     width: 1500px;
     margin:0px auto;
