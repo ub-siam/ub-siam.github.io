@@ -13,6 +13,11 @@ p {
     text-align: left;
 }
 
+b {
+    margin-left: 375px; margin-right: 375px; 
+    text-align: left;
+}
+
 ul {
     margin-left: 375px; margin-right: 375px; 
     text-align: left;
@@ -25,7 +30,7 @@ ul {
 .box {
     height: 100px;
     width: 1500px;
+    margin:0 auto;
     overflow-wrap: break-word;
-    display: block;
-    position: relative;
+
 }
